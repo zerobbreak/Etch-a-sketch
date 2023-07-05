@@ -42,7 +42,7 @@ Contributions are welcome! Please follow the guidelines in [CONTRIBUTING.md](CON
 
 ## Authors
 
-- [Your Name](https://github.com/your-username)
+- [Unathi Tshuma](https://github.com/zerobbreak)
 
 ## License
 
